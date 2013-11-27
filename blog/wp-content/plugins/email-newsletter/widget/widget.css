@@ -1,0 +1,54 @@
+.eemail_caption 
+{
+	padding-bottom:5px;
+	padding-top:5px;
+	/*padding-left:10px;*/
+	padding-right:5px;
+}
+.eemail_msg 
+{
+	padding-top:5px;
+	/*padding-left:10px;*/
+	color:#F00;
+}
+.eemail_textbox 
+{
+	padding-bottom:10px;
+	/*padding-left:10px;*/
+}
+.eemail_button 
+{
+	padding-bottom:10px;
+	/*padding-left:10px;*/
+}
+.eemail_textbox_class 
+{
+	background: none repeat scroll 0 0 #FFFFFF;
+border: 1px solid #AFAFAF;
+color: #838383;
+float: left;
+font-family: Arial,Helvetica,sans-serif;
+font-size: 12px;
+height: 12px;
+line-height: 14px;
+padding: 10px 0 10px 14px;
+width: 117px;
+}
+.eemail_textbox_button 
+{
+	background: none repeat scroll 0 0 #AC1F39;
+border: 3px solid #96152C;
+border-radius: 10px 10px 10px 10px;
+color: #FFFFFF;
+cursor: pointer;
+float: left;
+font-family: Arial,Helvetica,sans-serif;
+font-size: 14px;
+line-height: 18px;
+margin-left: 3px;
+padding: 5px 0;
+position: relative;
+text-shadow: 0 1px 0 #830340;
+width: 88px;
+z-index: 1;
+}
